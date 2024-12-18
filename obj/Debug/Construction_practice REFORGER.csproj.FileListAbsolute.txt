@@ -1,0 +1,7 @@
+C:\Users\Пользователь\source\repos\Construction_practice REFORGER\bin\Debug\Construction_practice REFORGER.exe.config
+C:\Users\Пользователь\source\repos\Construction_practice REFORGER\bin\Debug\Construction_practice REFORGER.exe
+C:\Users\Пользователь\source\repos\Construction_practice REFORGER\bin\Debug\Construction_practice REFORGER.pdb
+C:\Users\Пользователь\source\repos\Construction_practice REFORGER\obj\Debug\Construction_practice REFORGER.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\Construction_practice REFORGER\obj\Debug\Construction_practice REFORGER.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Construction_practice REFORGER\obj\Debug\Construction_practice REFORGER.exe
+C:\Users\Пользователь\source\repos\Construction_practice REFORGER\obj\Debug\Construction_practice REFORGER.pdb
